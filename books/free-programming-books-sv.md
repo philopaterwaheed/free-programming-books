@@ -2,7 +2,10 @@
 
 * [C](#c)
 * [C++](#cpp)
+* [Fortran](#fortran)
+* [MATLAB](#matlab)
 * [PHP](#php)
+* [Python](#python)
 
 
 ### C
@@ -10,9 +13,14 @@
 * [C-programmering](https://sv.wikibooks.org/wiki/C-programmering) - Wikibooks
 
 
-<h3 id="cpp">C++</h3>
+### <a id="cpp"></a>C++
 
 * [Programmera spel i C++ för nybörjare](https://sv.wikibooks.org/wiki/Programmera_spel_i_C%2B%2B_f%C3%B6r_nyb%C3%B6rjare) - Wikibooks
+
+
+### Fortran
+
+* [Lärobok i Fortran 95](http://www.boein.se/f95.pdf) - Linköpings Universitet, Bo Einarsson (PDF)
 
 
 ### MATLAB
@@ -24,3 +32,7 @@
 
 * [Programmera i PHP](https://sv.wikibooks.org/wiki/Programmera_i_PHP) - Wikibooks
 
+
+### Python
+
+* [Programmera i Python](https://sv.wikibooks.org/wiki/Programmera_i_Python) - Wikibooks
